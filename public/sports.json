@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1,
+      "name": "Football",
+      "img": "https://media.istockphoto.com/photos/beautiful-young-black-boy-training-on-the-football-pitch-picture-id1295248329?b=1&k=20&m=1295248329&s=170667a&w=0&h=jfcc98lBsoGb2FpCtsfh61egArW4_oFM1ZE9mYTMUFI=",
+      "description": "Association football, more commonly known as simply football or soccer,[a] is a team sport played between two teams of 11 players who primarily use their feet to propel the ball around a rectangular field called a pitch. ",
+       "age": "For Age 20-25",
+      "time": 90
+      },
+    {
+      "id": 2,
+      
+      "name": "Cricket",
+      
+      "img": "https://images.pexels.com/photos/3628912/pexels-photo-3628912.jpeg?auto=compress&cs=tinysrgb&w=600",
+      
+      "description": "Cricket is a bat-and-ball game played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps.",
+       "age": "For Age 20-25",
+       
+      "time": 180
+      
+       
+    },
+    {
+      "id": 3,
+      
+      "name": "Tennis Ball",
+      
+      "img": "https://media.istockphoto.com/photos/tennis-rackets-and-balls-picture-id177399925?k=20&m=177399925&s=612x612&w=0&h=egdW-m9LlDOlLKL1-eydU8RBSavUgkF2L0la4l8PwI0=",
+      
+      "description": "A tennis ball is a ball designed for the sport of tennis. Tennis balls are fluorescent yellow in organised competitions,but in recreational play can be virtually any color. Tennis balls are covered in a fibrous felt which modifies their aerodynamic properties, and each has a white curvilinear oval covering it.",
+      
+       "age": "For Age 20-25",
+       
+       "time": 50
+      
+      },
+      
+    {
+      "id": 4,
+      "name": "Badminton",
+      "img": "https://images.pexels.com/photos/2202685/pexels-photo-2202685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+
+      "description": "Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. Although it may be played with larger teams, the most common forms of the game are 'singles' (with one player per side) and 'doubles' (with two players per side).",
+      "age": "For Age 20-25",
+      "time": 70
+      
+    },
+    {
+      "id": 5,
+      "name": "Kabadi",
+      "img": "https://images.pexels.com/photos/5217416/pexels-photo-5217416.jpeg?auto=compress&cs=tinysrgb&w=600",
+      
+      "description": "Kabaddi is a contact team sport. Played between two teams of seven players, the objective of the game is for a single player on offence, referred to as a 'raider', to run into the opposing team's half of a court, touch out as many of their defenders as possible, and return to their own half of the court, all without being tackled by the defenders, and in a single breath.",
+      "age": "For Age 20-25",
+      "time": 80
+        
+    },
+    {
+      "id": 6,
+      "name": "Basketball",
+      "img": "https://images.pexels.com/photos/163452/basketball-dunk-blue-game-163452.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "description": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximately 9.4 inches (24 cm) in diameter) through the defender's hoop (a basket 18 inches (46 cm) in diameter mounted 10 feet (3.048 m) high to a backboard at each end of the court",
+      
+      "age": "For Age 20-25",
+      "time": 30
+   
+    }
+    
+  ]
